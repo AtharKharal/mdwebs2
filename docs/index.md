@@ -1,5 +1,5 @@
 ---
-layout: _layout.html
+layout: _layout
 title: Home
 ---
 
