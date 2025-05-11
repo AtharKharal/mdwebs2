@@ -1,5 +1,7 @@
 ---
-layout: _layout
+layout: _layout.html
+header: header.html
+footer: footer.html
 title: Home
 ---
 
